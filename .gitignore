@@ -1,0 +1,4 @@
+server/api-gateway/.env
+server/design-service/.env
+server/subscription-service/.env
+server/upload-service/.env
